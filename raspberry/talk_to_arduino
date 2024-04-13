@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/usr/bin/plink /dev/ttyUSB0 -serial -sercfg 115200,N,n,8,1
